@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  text-align: center;
+  padding: 40px;
+}
+
+.formulario {
+  background-image: url("comb.jpg");
+  padding: 40px 0 40px 0;
+  width: 70%;
+  margin: 0 auto;
+
+}
+
+#result {
+  background-color: aliceblue;
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+form {
+ 
+  background-color: aliceblue;
+  margin: 0 auto;
+  width: 200px;
+  padding: 30px 0 30px 0;
+}
+
+input {
+  text-align: right;
+  width: 100px;
+}
